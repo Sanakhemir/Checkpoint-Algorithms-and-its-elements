@@ -21,6 +21,6 @@ function analyzeSentence(phrase) {
     console.log("Nombre de voyelles : " + vowelCount);
   }
   
-  let sentence = "Bonjour tout le monde.";
+  let sentence = "Bonjour Gomycode.";
   analyzeSentence(sentence);
   
